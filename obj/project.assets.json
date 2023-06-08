@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desktop\\Desktop\\Ativ\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Desktop\\Desktop\\Ativ\\Nova pasta\\Exo.WebApi1\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\Desktop\\Desktop\\Ativ\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\Desktop\\Desktop\\Ativ\\Nova pasta\\Exo.WebApi1\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Desktop\\Desktop\\Ativ\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Desktop\\Desktop\\Ativ\\Nova pasta\\Exo.WebApi1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
